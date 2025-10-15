@@ -10,7 +10,6 @@ export default defineConfig({
     ['link', { rel: 'icon', href: '/dmc-devops/favicon.svg' }]
   ],
   themeConfig: {
-    logo: { src: '/dmc-devops/favicon.svg', alt: 'DMC DevOps' },
     nav: [
       { text: 'Guía', link: '/guia/introduccion' },
       { text: 'API', link: '/api/' }
