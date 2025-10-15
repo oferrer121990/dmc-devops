@@ -1,8 +1,8 @@
 ---
 # Página de inicio del tema por defecto
 layout: home
-title: Mi Documentación
-titleTemplate: Claro, conciso y útil
+title: Mi Documentación TEST CI CD
+titleTemplate: Claro, conciso y útil (New Changes)
 hero:
   name: Mi Docs
   text: Documentación moderna con VitePress
