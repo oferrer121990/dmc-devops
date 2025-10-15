@@ -1,0 +1,17 @@
+{
+  "name": "dmc-devops",
+  "version": "1.0.0",
+  "description": "mi doc",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --open",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs --port 4173"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
